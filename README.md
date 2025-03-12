@@ -30,8 +30,8 @@ A fully responsive and interactive **Spotify Clone** built using **HTML, CSS, an
 
 ## 📸 Screenshots
 
-![Home Page](https://abuosm.github.io/spotify-clone/homepage.png) *(Replace with actual images)*  
-![Music Player](https://abuosm.github.io/spotify-clone/player.png)  
+![Home Page](https://abuosm.github.io/spotify-clone/home.png)  
+
 
 ---
 
